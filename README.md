@@ -2,8 +2,8 @@
 Select a few high-quality open source projects every week 每周精选若干高质量开源项目
 
 # 贡献指南
-fork本项目
-发起pr
++ fork本项目
++ 发起pr
 
 ### 第一周[最新]
 [1. trpc](https://github.com/trpc/trpc)
