@@ -1,5 +1,5 @@
 # HelloOpenSource
-每周精选若干高质量开源项目
+Select a few high-quality open source projects every week 每周精选若干高质量开源项目
 
 # 贡献指南
 fork本项目
